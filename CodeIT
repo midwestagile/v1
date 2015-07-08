@@ -1,0 +1,6 @@
+# v1echo Helloo # v1 >> Code.md
+git init
+git add codeit.md
+git commit -m "second commit"
+git remote add origin https://github.com/midwestagile/v1.git
+git push -u origin master
