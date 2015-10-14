@@ -1,4 +1,4 @@
-# v1echo Hello World #  HELP   V1 >> Code.md
+# v1echo Hello World #  HELP    V1 >> Code.md
 git init
 git add codeit.md
 git commit -m "second commit"
